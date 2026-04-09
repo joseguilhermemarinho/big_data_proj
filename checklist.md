@@ -71,3 +71,5 @@ Carregamento/destino existem, mas com caminho acoplado ao Colab (/content/...)
 Não feito
 Dashboards/visualizações finais e storytelling de resultados (AV2)
 Estrutura completa pedida para AV2 (/documentacao, /notebooks, etc.)
+
+![alt text](image-1.png)

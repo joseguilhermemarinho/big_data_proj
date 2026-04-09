@@ -109,3 +109,4 @@ Para execucao local, recomenda-se ajustar caminhos para o projeto, por exemplo:
 - Ausencia de testes automatizados e lint configurado.
 - Caminhos acoplados ao Colab em partes do notebook.
 
+![alt text](image.png)
