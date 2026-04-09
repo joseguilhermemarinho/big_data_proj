@@ -3,8 +3,8 @@
 ## Status das Etapas do Pipeline (AV1)
 
 ### 1) Ingestão
-- [x] Em progresso
-- [ ] Finalizado
+- [ ] Em progresso
+- [x] Finalizado
 - [ ] Pendente
 
 **Evidências:**
@@ -15,8 +15,8 @@
 ---
 
 ### 2) Armazenamento
-- [x] Em progresso
-- [ ] Finalizado
+- [ ] Em progresso
+- [x] Finalizado
 - [ ] Pendente
 
 **Evidências:**
@@ -27,8 +27,8 @@
 ---
 
 ### 3) Transformação
-- [x] Em progresso
-- [ ] Finalizado
+- [ ] Em progresso
+- [x] Finalizado
 - [ ] Pendente
 
 **Evidências:**
